@@ -1,4 +1,4 @@
-# Graftcode Examples
+# Graftcode By Examples
 
 A personal collection of hands-on examples built, tested, and run against [GraftCode](https://graftcode.com/) — capturing the best practices I've learned for using the platform.
 
