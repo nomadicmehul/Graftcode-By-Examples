@@ -1,6 +1,6 @@
 # Graftcode By Examples
 
-A personal collection of hands-on examples built, tested, and run against [GraftCode](https://graftcode.com/) — capturing the best practices I've learned for using the platform.
+Collection of hands-on examples built, tested, and run against [GraftCode](https://graftcode.com/) — capturing the best practices I've learned for using the platform.
 
 The goal of this repo is to serve as a practical reference for:
 
